@@ -1,6 +1,9 @@
 # Challenge 14 Tech Blog
 
-
+## Live Link
+https://techblog11-dd7adf402b60.herokuapp.com/
+## Github Link 
+https://github.com/Mosaleh-Egy/Technology-Blogs
 ## Description
 
 The tech blog where users can write blogs about different technologies
